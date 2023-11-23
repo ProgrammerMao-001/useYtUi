@@ -17,6 +17,10 @@
   },
   {
     "link": "useYtIsShowForm",
-    "desc": "ytIsShowForm 显示隐藏筛选框组件 页面"
+    "desc": "ytIsShowForm 显示隐藏筛选框组件"
+  },
+  {
+    "link": "useYtTable",
+    "desc": "ytTable 基于el-table封装的表格组件"
   }
 ]
