@@ -22,5 +22,9 @@
   {
     "link": "useYtTable",
     "desc": "ytTable 基于el-table封装的表格组件"
+  },
+  {
+    "link": "useYtPagination",
+    "desc": "ytTable 基于el-pagination封装的表格分页组件"
   }
 ]
