@@ -26,5 +26,9 @@
   {
     "link": "useYtPagination",
     "desc": "ytTable 基于el-pagination封装的表格分页组件"
+  },
+  {
+    "link": "useYtPageComp",
+    "desc": "ytPageComp 搜索栏+按钮组+表格+分页模板组件"
   }
 ]
